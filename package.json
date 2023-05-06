@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bitcoincashjs": "^0.1.14",
-    "bitcore-lib": "^8.3.4",
-    "bitcore-lib-cash": "^8.3.4",
+    "bitcore-lib": "^8.25.47",
+    "bitcore-lib-cash": "^8.25.47",
     "bluebird": "^3.5.5",
     "node-fetch": "^2.6.0"
   }
